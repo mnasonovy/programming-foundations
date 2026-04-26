@@ -12,4 +12,4 @@
 |---|---|
 | [CMake](./CMake/) | Материалы по CMake и сборке проектов |
 | [Git и GitHub](<./Git и GitHub/>) | Установка Git, регистрация GitHub, работа с репозиториями и основными командами |
-| [Visual Studio 2022](<./Visual Studio 2022/>) | Установка Visual Studio 2022 и вход через GitHub |
+| [Visual Studio 2022](<./Visual Studio 2022/>) | Установка и работа в Visual Studio 2022 |
