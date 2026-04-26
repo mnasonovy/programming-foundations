@@ -20,7 +20,7 @@ Fork используется для:
 
 Перейдите в репозиторий курса на GitHub.
 
-![img.png](../tools%20materials/git%20&%20github/Как%20сделать%20fork%20репозитория/img.png)
+![img.png](../%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/git%20%26%20github/%D0%9A%D0%B0%D0%BA%20%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C%20fork%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/img.png)
 
 ---
 
@@ -30,7 +30,7 @@ Fork используется для:
 
 > **Fork**
 
-![img_1.png](../tools%20materials/git%20&%20github/Как%20сделать%20fork%20репозитория/img_1.png)
+![img_1.png](../%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/git%20%26%20github/%D0%9A%D0%B0%D0%BA%20%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C%20fork%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/img_1.png)
 
 ---
 
@@ -83,7 +83,7 @@ GitHub предложит настроить параметры fork перед 
 
 > **Create fork**
 
-![img_2.png](../tools%20materials/git%20&%20github/Как%20сделать%20fork%20репозитория/img_2.png)
+![img_2.png](../%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/git%20%26%20github/%D0%9A%D0%B0%D0%BA%20%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C%20fork%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/img_2.png)
 
 ---
 
@@ -92,7 +92,7 @@ GitHub предложит настроить параметры fork перед 
 После создания fork вы будете перенаправлены
 в копию репозитория в вашем аккаунте.
 
-![img_3.png](../tools%20materials/git%20&%20github/Как%20сделать%20fork%20репозитория/img_3.png)
+![img_3.png](../%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/git%20%26%20github/%D0%9A%D0%B0%D0%BA%20%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C%20fork%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/img_3.png)
 
 В верхней части страницы вы увидите:
 

@@ -17,7 +17,8 @@ Git — это распределённая система контроля ве
 👉 https://git-scm.com
 
 На главной странице нажмите кнопку **Install for Windows**.
-![img.png](../tools%20materials/git%20&%20github/Установка%20Git%20на%20Windows/img.png)
+
+![img.png](../Скриншоты/git%20%26%20github/Установка%20Git%20на%20Windows/img.png)
 ---
 
 ## 2. Загрузка установщика
@@ -27,7 +28,8 @@ Git — это распределённая система контроля ве
 - Нажмите ссылку для загрузки **Git for Windows (x64)**
 - Дождитесь завершения загрузки
 - Запустите скачанный `.exe` файл
-![img_1.png](../tools%20materials/git%20&%20github/Установка%20Git%20на%20Windows/img_1.png)
+
+![img_1.png](../Скриншоты/git%20%26%20github/Установка%20Git%20на%20Windows/img_1.png)
 ---
 
 ## 3. Запуск установщика
@@ -38,7 +40,8 @@ Git — это распределённая система контроля ве
 - Нажмите **Next**
 
 (Ничего менять здесь не нужно)
-![img_2.png](../tools%20materials/git%20&%20github/Установка%20Git%20на%20Windows/img_2.png)
+
+![img_2.png](../Скриншоты/git%20%26%20github/Установка%20Git%20на%20Windows/img_2.png)
 ---
 
 ## 4. Выбор компонентов
@@ -55,7 +58,8 @@ Git — это распределённая система контроля ве
 ✔ Scalar
 
 Нажмите **Next**.
-![img_3.png](../tools%20materials/git%20&%20github/Установка%20Git%20на%20Windows/img_3.png)
+
+![img_3.png](../Скриншоты/git%20%26%20github/Установка%20Git%20на%20Windows/img_3.png)
 ---
 
 ## 5. Выбор редактора по умолчанию
@@ -69,7 +73,8 @@ Git — это распределённая система контроля ве
 > В дальнейшем можно поменять его на VS Code или любой другой.
 
 Нажмите **Next**.
-![img_4.png](../tools%20materials/git%20&%20github/Установка%20Git%20на%20Windows/img_4.png)
+
+![img_4.png](../Скриншоты/git%20%26%20github/Установка%20Git%20на%20Windows/img_4.png)
 ---
 
 ## 6. Имя начальной ветки
@@ -83,7 +88,8 @@ Git — это распределённая система контроля ве
 > но GitHub автоматически приведёт всё к нужному формату.
 
 Нажмите **Next**.
-![img_5.png](../tools%20materials/git%20&%20github/Установка%20Git%20на%20Windows/img_5.png)
+
+![img_5.png](../Скриншоты/git%20%26%20github/Установка%20Git%20на%20Windows/img_5.png)
 ---
 
 ## 7. Настройка PATH
@@ -98,7 +104,8 @@ Git — это распределённая система контроля ве
 - работать с Git из Visual Studio
 
 Нажмите **Next**.
-![img_6.png](../tools%20materials/git%20&%20github/Установка%20Git%20на%20Windows/img_6.png)
+
+![img_6.png](../Скриншоты/git%20%26%20github/Установка%20Git%20на%20Windows/img_6.png)
 ---
 
 ## 8. Выбор SSH-клиента
@@ -109,7 +116,8 @@ Git — это распределённая система контроля ве
 - **Use bundled OpenSSH**
 
 Нажмите **Next**.
-![img_7.png](../tools%20materials/git%20&%20github/Установка%20Git%20на%20Windows/img_7.png)
+
+![img_7.png](../Скриншоты/git%20%26%20github/Установка%20Git%20на%20Windows/img_7.png)
 ---
 
 ## 9. HTTPS backend
@@ -122,7 +130,8 @@ Git — это распределённая система контроля ве
 Это обеспечивает корректную работу с сертификатами Windows.
 
 Нажмите **Next**.
-![img_8.png](../tools%20materials/git%20&%20github/Установка%20Git%20на%20Windows/img_8.png)
+
+![img_8.png](../Скриншоты/git%20%26%20github/Установка%20Git%20на%20Windows/img_8.png)
 ---
 
 ## 10. Настройка переводов строк
@@ -135,7 +144,8 @@ Git — это распределённая система контроля ве
 Это стандарт для Windows и кроссплатформенных проектов.
 
 Нажмите **Next**.
-![img_9.png](../tools%20materials/git%20&%20github/Установка%20Git%20на%20Windows/img_9.png)
+
+![img_9.png](../Скриншоты/git%20%26%20github/Установка%20Git%20на%20Windows/img_9.png)
 ---
 
 ## 11. Терминал для Git Bash
@@ -146,7 +156,8 @@ Git — это распределённая система контроля ве
 - **Use MinTTY (the default terminal of MSYS2)**
 
 Нажмите **Next**.
-![img_10.png](../tools%20materials/git%20&%20github/Установка%20Git%20на%20Windows/img_10.png)
+
+![img_10.png](../Скриншоты/git%20%26%20github/Установка%20Git%20на%20Windows/img_10.png)
 ---
 
 ## 12. Поведение `git pull`
@@ -159,7 +170,8 @@ Git — это распределённая система контроля ве
 Это наиболее безопасный и понятный вариант для новичков.
 
 Нажмите **Next**.
-![img_11.png](../tools%20materials/git%20&%20github/Установка%20Git%20на%20Windows/img_11.png)
+
+![img_11.png](../Скриншоты/git%20%26%20github/Установка%20Git%20на%20Windows/img_11.png)
 ---
 
 ## 13. Credential Helper
@@ -172,7 +184,8 @@ Git — это распределённая система контроля ве
 Он отвечает за безопасное хранение логинов и токенов GitHub.
 
 Нажмите **Next**.
-![img_12.png](../tools%20materials/git%20&%20github/Установка%20Git%20на%20Windows/img_12.png)
+
+![img_12.png](../Скриншоты/git%20%26%20github/Установка%20Git%20на%20Windows/img_12.png)
 ---
 
 ## 14. Дополнительные опции
@@ -184,7 +197,8 @@ Git — это распределённая система контроля ве
 ✖ Enable symbolic links (можно оставить выключенным)
 
 Нажмите **Install**.
-![img_13.png](../tools%20materials/git%20&%20github/Установка%20Git%20на%20Windows/img_13.png)
+
+![img_13.png](../Скриншоты/git%20%26%20github/Установка%20Git%20на%20Windows/img_13.png)
 ---
 
 ## 15. Завершение установки
@@ -194,7 +208,8 @@ Git — это распределённая система контроля ве
 На финальном экране:
 - можно снять галочку **View Release Notes**
 - нажмите **Finish**
-![img_14.png](../tools%20materials/git%20&%20github/Установка%20Git%20на%20Windows/img_14.png)
+
+![img_14.png](../Скриншоты/git%20%26%20github/Установка%20Git%20на%20Windows/img_14.png)
 🎉 Git успешно установлен.
 
 ---
@@ -206,4 +221,5 @@ Git — это распределённая система контроля ве
 ```
 git --version
 ```
-![img_15.png](../tools%20materials/git%20&%20github/Установка%20Git%20на%20Windows/img_15.png)
+
+![img_15.png](../Скриншоты/git%20%26%20github/Установка%20Git%20на%20Windows/img_15.png)
